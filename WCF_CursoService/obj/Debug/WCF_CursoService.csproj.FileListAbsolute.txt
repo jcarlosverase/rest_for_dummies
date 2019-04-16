@@ -1,0 +1,8 @@
+D:\Descargas\AsistenteMatricula\WCF_CursoService\bin\WCF_CursoService.dll.config
+D:\Descargas\AsistenteMatricula\WCF_CursoService\bin\WCF_CursoService.dll
+D:\Descargas\AsistenteMatricula\WCF_CursoService\bin\WCF_CursoService.pdb
+D:\Descargas\AsistenteMatricula\WCF_CursoService\bin\WCF_DocenteService.dll
+D:\Descargas\AsistenteMatricula\WCF_CursoService\bin\WCF_DocenteService.pdb
+D:\Descargas\AsistenteMatricula\WCF_CursoService\obj\Debug\WCF_CursoService.csprojResolveAssemblyReference.cache
+D:\Descargas\AsistenteMatricula\WCF_CursoService\obj\Debug\WCF_CursoService.dll
+D:\Descargas\AsistenteMatricula\WCF_CursoService\obj\Debug\WCF_CursoService.pdb
